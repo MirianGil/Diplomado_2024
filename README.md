@@ -30,3 +30,9 @@ This is a python repo for the diplomado 2024
 4. R
 5. c++
 
+## Schools
+1. Primer Colegio Nacional de Nuestra Señora de Guadalupe
+2. Alfonso Ugarte
+3. San Agustín
+4. Mariano Melgar
+5. Rosa Santa Maria
